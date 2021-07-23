@@ -2,7 +2,7 @@
 
 Updated porfolio includes:
 
-1. Contact Info (via Linkedin)
+1. Contact Info
 
 2. Links to my GitHub and Linkedin profiles
 
