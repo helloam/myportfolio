@@ -10,3 +10,5 @@ Updated porfolio includes:
 
 4. Display of at least 3 examples of student work from either deployed projects or homeworks. 
 
+[See my Portfolio](https://helloam.github.io/myportfolio/)
+
